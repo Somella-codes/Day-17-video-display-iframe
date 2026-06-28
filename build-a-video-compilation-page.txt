@@ -1,0 +1,62 @@
+** start of index.html **
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Video Compilation Page</title>
+</head>
+
+<body>
+    <main>
+        <h1>Ny Favorite Videos</h1>
+        <p>Here are 3 videos I enjoy watching about coding and tech</p>
+
+        <section>
+            <h2>Learn HTML Basics</h2>
+            <p>This video helped me understand HTML structure</p>
+            <iframe
+            src="https://www.youtube.com/embed/kHEs3Y1k-7Y"
+            title="HTML Basics Tutorial"
+            width="560"
+            height="315"
+            allow="accelerometer;autoplay;clipboard-write;encrypted-media;gyroscope;picture-in picture"
+            allowfullscreen>
+            </iframe>
+            </section>
+
+            <section>
+                <h2>CSS Flexbox Explained</h2>
+                <p>Flexbox makes layout so much easier to build</p>
+                <iframe
+                src="https://www.youtube.com/embed/3YW65iLWQBs"
+                title="CSS Flexbox Tutorial"
+                width="560"
+                height="315"
+                allow="accelerometer; autoplay; clipboard; encrypted-media; gyroscope; picture-in-picture"
+                allowfullscreen>
+                </iframe>
+                </section>
+
+                <section>
+                    <h2>JavaScript Crash Course</h2>
+                    <p>This one broke down JS in a way that finally clicked for me</p>
+                    <iframe
+                    src="https://www.youtube.youtube.com/embed/hdI2bqOjy3c"
+                    title="JavaScript Crash Course"
+                    width="560"
+                    height="315"
+                    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+                    allowfullscreen>
+                    </iframe>
+                    </section>
+                    </main>
+            
+</body>
+
+</html>
+
+** end of index.html **
+
