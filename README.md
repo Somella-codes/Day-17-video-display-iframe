@@ -17,12 +17,6 @@ The code passed FCC’s tests, but the preview wouldn’t load there. It only ra
 4.  **Accessibility Matters**: Every `iframe` needs a `title`. Screen readers depend on it. Also set `width` + `height` to avoid layout shift.
 5.  **Semantic HTML**: The whole thing has to be `main` > `section` > `h2` > `p` > `iframe`. That order was literally a test case.
 
-**How It Looks in Spck**
-![Video Display Screenshot](Screenshot_20260626_212222_Spck%20Editor.jpg)
 
 **Tech Stack**
 `HTML5` | `iframe` | `Semantic Tags` | Tested in `Spck Editor`
-
-**Wanna see the code?** 
-👉 [index.html](./index.html)
-
